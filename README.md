@@ -1,8 +1,5 @@
 # EuroSAT Land Cover Classification using Custom CNN
 
-
-# EuroSAT Land Cover Classification using Custom CNN
-
 🚀 **Live Demo:** [Try the EuroSAT CNN Classifier](https://cvpr-cnn-eurosat-yqyd23ekjrevkcjtfxrrfc.streamlit.app)
 
 ## Overview
