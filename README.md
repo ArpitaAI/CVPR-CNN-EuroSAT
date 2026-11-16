@@ -1,5 +1,10 @@
 # EuroSAT Land Cover Classification using Custom CNN
 
+
+# EuroSAT Land Cover Classification using Custom CNN
+
+🚀 **Live Demo:** [Try the EuroSAT CNN Classifier](https://cvpr-cnn-eurosat-yqyd23ekjrevkcjtfxrrfc.streamlit.app)
+
 ## Overview
 This project implements a custom Convolutional Neural Network (CNN) in PyTorch for land-cover classification using the EuroSAT satellite image dataset.
 
